@@ -25,7 +25,7 @@ public class Kuruyemişçi {
 
 		int kira = 500;
 		
-		double Leblebi = 3.5;
+		double Leblebi = 12;
 		double Fındık = 25;
 		double Badem = 40;
 
