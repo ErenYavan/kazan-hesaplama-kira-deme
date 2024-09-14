@@ -58,9 +58,5 @@ public class Kuruyemişçi {
 		System.out.println("maliyet tutarı : " + MaliyetTutar);
 
 		System.out.println("SatışTutar tutarı : " + SatışTutar);
-
-		
-			
-
 	}
 }
